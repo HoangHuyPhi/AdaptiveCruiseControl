@@ -1,0 +1,3 @@
+Car Speed = 50
+Target Speed = 90
+Object Distance = 10
